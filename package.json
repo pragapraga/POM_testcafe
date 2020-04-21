@@ -1,0 +1,16 @@
+{
+    "name": "PageObjectModelTestCafe",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "testcafe"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "testcafe": "^1.8.4",
+        "testcafe-reporter-html": "^1.4.6"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "browsers": "chrome",
+    "src": "./test/spec.ts",
+    "reporter": {
+        "name": "html",
+        "output": "reports/report.html"
+    },
+    "screenshots": {
+        "path": "./screenshots/",
+        "takeOnFails": false
+    }
+}
