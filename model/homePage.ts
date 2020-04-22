@@ -4,7 +4,7 @@ class homePage {
     txtBox:Selector = Selector('#developer-name');
     btn : Selector = Selector('#submit-button');
 
-    async sendTexty(textu: string){
+    async sendText(textu: string){
         await t.typeText(this.txtBox,textu).click(this.btn);
     }
 }

@@ -7,6 +7,6 @@
     },
     "screenshots": {
         "path": "./screenshots/",
-        "takeOnFails": false
+        "takeOnFails": true
     }
 }
