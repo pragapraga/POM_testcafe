@@ -1,6 +1,6 @@
 {
     "browsers": "chrome",
-    "src": "./test/spec.ts",
+    "src": "./test/sampleone-spec.ts",
     "reporter": {
         "name": "html",
         "output": "reports/report.html"
